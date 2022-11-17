@@ -1,5 +1,3 @@
-20 lines (17 sloc)  289 Bytes
-
 package com.mycompany.app;
 
 import static org.junit.Assert.assertTrue;
